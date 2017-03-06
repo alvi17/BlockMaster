@@ -126,7 +126,7 @@
 
     </LinearLayout>
 
-    <ibcr.blockmaster.BlockBoardView
+    <alvi17.blockmaster.BlockBoardView
         android:id="@+id/boardView"
         android:layout_width="0dp"
         android:layout_height="match_parent"

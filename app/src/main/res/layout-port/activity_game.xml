@@ -48,7 +48,7 @@
 
     
 
-    <ibcr.blockmaster.BlockBoardView
+    <alvi17.blockmaster.BlockBoardView
         android:id="@+id/boardView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
